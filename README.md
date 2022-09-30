@@ -12,7 +12,7 @@
 ## Install react router
 ```npm i -D react-router-dom``` untuk menginstall react router yang akan membantu navigasi dalam webiste
 
-##hasil tampilan
+## Hasil Tampilan
 ![](lampung-qyu/src/assets/berandaPage.png)
 ![](lampung-qyu/src/assets/ListPage.png)
 ![](lampung-qyu/src/assets/detailPage.png)
