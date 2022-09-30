@@ -4,57 +4,49 @@
       "id":1,
       "nama":"Pantai Kiluan",
       "lokasi":"Kiluan Negeri, Kecamatan Kelumbayan, Kabupaten Tanggamus, Provinsi Lampung",
-      "detail" : "Raden Mas Arya adalah seorang pendatang yang berada di wilayah perdagangan warga desa Bawang. Sebagai seorang pendekar ia sangat sulit dikalahkan oleh lawannya. Saat itu kerajaan Majapahit pada masa keruntuhannya dan Islam mulai menyebar di Indonesia.Lawannya kala itu pesilat Kotaagung. Karena kesaktiannya Raden mas Arya mendapat ilham bahwa kematiannya semakin dekat, kemudian ia membuat wasiat untuk meminta Kotaagung memakamkannya di sebuah pulau yang ia inginkan jika ia kalah dan terbunuh. Ternyata benar saja, ia terbunuh dan dimakamkan sesuai dengan permintaan terakhirnya. Nah konon tumpukan batu yang berada ditengah pulau Kiluan ini adalah makam Raden Mas Arya.Sehingga teluk ini dinamakan Teluk Kiluan, karna kiluan dalam Bahasa Lampung berarti Permintaan. Begitulah sejarah Teluk ini yang kini menjadi destinasi wisata",
-      "gambar" : "./assets/PantaiKiluan.jpg"
+      "detail" : "Raden Mas Arya adalah seorang pendatang yang berada di wilayah perdagangan warga desa Bawang. Sebagai seorang pendekar ia sangat sulit dikalahkan oleh lawannya. Saat itu kerajaan Majapahit pada masa keruntuhannya dan Islam mulai menyebar di Indonesia.Lawannya kala itu pesilat Kotaagung. Karena kesaktiannya Raden mas Arya mendapat ilham bahwa kematiannya semakin dekat, kemudian ia membuat wasiat untuk meminta Kotaagung memakamkannya di sebuah pulau yang ia inginkan jika ia kalah dan terbunuh. Ternyata benar saja, ia terbunuh dan dimakamkan sesuai dengan permintaan terakhirnya. Nah konon tumpukan batu yang berada ditengah pulau Kiluan ini adalah makam Raden Mas Arya.Sehingga teluk ini dinamakan Teluk Kiluan, karna kiluan dalam Bahasa Lampung berarti Permintaan. Begitulah sejarah Teluk ini yang kini menjadi destinasi wisata"
     },
     {
       "id":2,
       "nama":"Pantai Mahitam",
       "lokasi":"Desa Gebang, Kecamatan Padang Cermin, Kabupaten Pesawaran",
-      "detail" : "Selain ikan-ikan yang imut-imut ini, Sobat Native akan disuguhkan dengan pemandangan terumbu karang yang tidak kalah indahnya dengan bunaken atau wakatobi. Menyelam dan melihat pemandangan bawah laut adalah hal yang wajib apabila Sobat Native berada disini. Bila, Sobat Native masih enggan untuk berkenalan dengan dunia bawah lautnya sudah dipastikan kerugian besar. Saat wisatawan tiba di tempat ini, wisatawan akan disambut dengan keramahan para warga pulau yang selalu menebar senyum kepada wisatawan asing dan juga wisatawan lokal. Mereka seakan sadar betul, bila pariwisata adalah salah satu modal terbesar yang dimiliki untuk meningkatkan taraf hidup mereka. Tak jarang pula, mereka ikut menjaga kebersihan alam yang berada di sekitar pulau mahitam, atau biasa disebut dengan warga adalah pulau maitem ini. Dengan dijaganya kawasan ini membuat Sobat Native yang berkunjung ke sini menjadi betah dan tidak ingin terburu-buru untuk pulang, bahkan enggan untuk pulang.",
-      "gambar": "./assets/PantaiMahitam.jpg"
+      "detail" : "Selain ikan-ikan yang imut-imut ini, Sobat Native akan disuguhkan dengan pemandangan terumbu karang yang tidak kalah indahnya dengan bunaken atau wakatobi. Menyelam dan melihat pemandangan bawah laut adalah hal yang wajib apabila Sobat Native berada disini. Bila, Sobat Native masih enggan untuk berkenalan dengan dunia bawah lautnya sudah dipastikan kerugian besar. Saat wisatawan tiba di tempat ini, wisatawan akan disambut dengan keramahan para warga pulau yang selalu menebar senyum kepada wisatawan asing dan juga wisatawan lokal. Mereka seakan sadar betul, bila pariwisata adalah salah satu modal terbesar yang dimiliki untuk meningkatkan taraf hidup mereka. Tak jarang pula, mereka ikut menjaga kebersihan alam yang berada di sekitar pulau mahitam, atau biasa disebut dengan warga adalah pulau maitem ini. Dengan dijaganya kawasan ini membuat Sobat Native yang berkunjung ke sini menjadi betah dan tidak ingin terburu-buru untuk pulang, bahkan enggan untuk pulang."      
     },
     {
       "id":3,
       "nama":"Pulau Pahawang",
       "lokasi":"Kecamatan Punduh Pidada, Kabupaten Pesawaran, Provinsi Lampung",
-      "detail":"Ada banyak tempat wisata di Lampung, Pahawang bisa dibilang menjadi salah satu idola. Tidak mengherankan kalau ditanya mau ke mana, wisatawan akan menjawab ‘ke Pahawang’. Kabupaten Pesawaran bisa berbangga hati, destinasi wisatanya begitu populer di mata wisatawan.Padahal di tahun 2010an masih sedikit wisatawan yang datang. Saat ini di situasi normal sebelum pandemi, bisa ribuan wisatawan yang datang  dalam satu hari.",
-      "gambar":"./assets/PulauPahawang.jpg"
+      "detail":"Ada banyak tempat wisata di Lampung, Pahawang bisa dibilang menjadi salah satu idola. Tidak mengherankan kalau ditanya mau ke mana, wisatawan akan menjawab ‘ke Pahawang’. Kabupaten Pesawaran bisa berbangga hati, destinasi wisatanya begitu populer di mata wisatawan.Padahal di tahun 2010an masih sedikit wisatawan yang datang. Saat ini di situasi normal sebelum pandemi, bisa ribuan wisatawan yang datang  dalam satu hari."
     },
     {
       "id":4,
       "nama":"Pulau Kelagian",
       "lokasi":"Desa Gebang, Kecamatan Padang Cermin, Kabupaten Pesawaran, Provinsi Lampung.",
-      "detail": "Pulau Kelagian terdiri dari Pulau Kelagian Besar dan Kelagian Kecil. Pulau Kelagian Kecil terkenal dengan sebutan Pulau Kelagian Lunik. Pulau Kelagian biasa dipakai untuk latihan militer. Tentara Angkatan Laut sering mengadakan latihan di Pulau Kelagian. Karenanya, pemerintah melarang tinggal di pulau ini. Masyarakat terkadang menyebut Pulau Kelagian Besar sebagai Pulau Marinir. Namun saat hari biasa, wisatawan hilir mudik mendatangi pulau ini. Panorama dan keasrian pantainya selalu memikat wisatawan. Ombak lautnya sangat tenang, membuat siapa saja ingin segera berenang. Dikelilingi teluk dan diapit Pulau Pahawang dan Maitem. Ombak benar-benar aman untuk tempat bermain air. Kesegarannya jauh dari polusi dan pencemaran. Untuk menuju ke Pulau Kelagian memang tak menguras tenaga. Namun harus menyebrangi lautan. Wisatawan bisa menyewa perahu cepat. Berangkat dari dari Pantai Klara menyeberangi Teluk Ratai. Satu perahu cepat mampu menampung 10 penumpang. Setidaknya 45 menit berlayar kamu dengan aman sampai di Pulau Kelagian. ",
-      "gambar":"./assets/PulauKelagian.jpg"
+      "detail": "Pulau Kelagian terdiri dari Pulau Kelagian Besar dan Kelagian Kecil. Pulau Kelagian Kecil terkenal dengan sebutan Pulau Kelagian Lunik. Pulau Kelagian biasa dipakai untuk latihan militer. Tentara Angkatan Laut sering mengadakan latihan di Pulau Kelagian. Karenanya, pemerintah melarang tinggal di pulau ini. Masyarakat terkadang menyebut Pulau Kelagian Besar sebagai Pulau Marinir. Namun saat hari biasa, wisatawan hilir mudik mendatangi pulau ini. Panorama dan keasrian pantainya selalu memikat wisatawan. Ombak lautnya sangat tenang, membuat siapa saja ingin segera berenang. Dikelilingi teluk dan diapit Pulau Pahawang dan Maitem. Ombak benar-benar aman untuk tempat bermain air. Kesegarannya jauh dari polusi dan pencemaran. Untuk menuju ke Pulau Kelagian memang tak menguras tenaga. Namun harus menyebrangi lautan. Wisatawan bisa menyewa perahu cepat. Berangkat dari dari Pantai Klara menyeberangi Teluk Ratai. Satu perahu cepat mampu menampung 10 penumpang. Setidaknya 45 menit berlayar kamu dengan aman sampai di Pulau Kelagian. "
     },
     {
       "id":5,
       "nama":"Pulau Tangkil",
       "lokasi":"Pulau Tangkil, Desa Sukajaya, Kecamatan Padang Cermin,Kabupaten Pesawaran, Lampung.",
-      "detail":"Pulau Tangkil – Teluk Lampung memiliki beberapa pulau kecil yang bisa kamu kunjungi kapan saja. Akses mudah, pemandangan bagus, atraksi seru, dan harga tiket masuk yang terjangkau. Pulau Tangkil adalah salah satu pulau yang termasuk dekat dari Kota Bandar Lampung. Berada di Kabupaten Pesawaran, pulau ini selalu ramai dikunjungi saat libur akhir pekan. Pulau ini hanya berjarak sekitar 600 meter arah Timur Pantai Mutun. Atau di arah Selatan KOta Bandar Lampung. Hanya berjarak sekitar 15 kilometer dari Pusat Kota Bandar Lampung. Kamu hanya memerlukan waktu 1 jam untuk bisa sampai di pulau.",
-      "gambar":"./assets/PulauTangkil.jpg"
+      "detail":"Pulau Tangkil – Teluk Lampung memiliki beberapa pulau kecil yang bisa kamu kunjungi kapan saja. Akses mudah, pemandangan bagus, atraksi seru, dan harga tiket masuk yang terjangkau. Pulau Tangkil adalah salah satu pulau yang termasuk dekat dari Kota Bandar Lampung. Berada di Kabupaten Pesawaran, pulau ini selalu ramai dikunjungi saat libur akhir pekan. Pulau ini hanya berjarak sekitar 600 meter arah Timur Pantai Mutun. Atau di arah Selatan KOta Bandar Lampung. Hanya berjarak sekitar 15 kilometer dari Pusat Kota Bandar Lampung. Kamu hanya memerlukan waktu 1 jam untuk bisa sampai di pulau."
     },
     {
       "id":6,
       "nama":"Puncak Mas",
       "lokasi":"Puncak Mas Lampung berada di Jl. H. Hamim RJP, Sukadanaham, Kecamatan Tanjung Karang Barat, Kota Bandar Lampung, Provinsi Lampung",
-      "detail":"Banyaknya kunjungan wisata ke Puncak Mas Lampung dikarenakan lokasinya berada di sebuah bukit, serta memiliki area yang tertata dengan baik, sehingga tersaji sebuah taman instagramable di atas ketinggian Kota Bandar Lampung. Selain itu, semua yang dibutuhkan untuk menunjang kenyamanan wisata para pengunjung tersaji lengkap di Puncak Mas Lampung, termasuk cottage, atau penginapan.",
-      "gambar":"./assets/PuncakMas.jpg"
+      "detail":"Banyaknya kunjungan wisata ke Puncak Mas Lampung dikarenakan lokasinya berada di sebuah bukit, serta memiliki area yang tertata dengan baik, sehingga tersaji sebuah taman instagramable di atas ketinggian Kota Bandar Lampung. Selain itu, semua yang dibutuhkan untuk menunjang kenyamanan wisata para pengunjung tersaji lengkap di Puncak Mas Lampung, termasuk cottage, atau penginapan."
     },
     {
       "id":7,
       "nama":"Bukit Aslan",
       "lokasi":"Bukit Way Gubak, Kota Bandar Lampung",
-      "detail":"Bukit Aslan, salah satu destinasi wisata terbaru di Kota Bandar Lampung. Sudah mulai banyak yang bertanya-tanya tentang lokasi, tiket masuk, fasilitas, daya tarik, dan lainnya. Banyak juga yang sudah berkunjung ke tempat ini. Bukit Aslan adalah sebuah tempat wisata seluas sekitar 10 hektar di ketinggian Bukit Way Gubak Kota Bandar Lampung. Menyuguhkan pemandangan Kota Bandar Lampung, Teluk Lampung, dan perbukitan Pesawaran di kejauhan.",
-      "gambar":"./assets/BukitAslan.jpg"
+      "detail":"Bukit Aslan, salah satu destinasi wisata terbaru di Kota Bandar Lampung. Sudah mulai banyak yang bertanya-tanya tentang lokasi, tiket masuk, fasilitas, daya tarik, dan lainnya. Banyak juga yang sudah berkunjung ke tempat ini. Bukit Aslan adalah sebuah tempat wisata seluas sekitar 10 hektar di ketinggian Bukit Way Gubak Kota Bandar Lampung. Menyuguhkan pemandangan Kota Bandar Lampung, Teluk Lampung, dan perbukitan Pesawaran di kejauhan."
     },
     {
       "id":8,
       "nama":"Pantai Sari Ringgung",
       "lokasi":"Way Ratai Km 14, Desa Sidodadi, Kecamatan Teluk Pandan, Kabupaten Pesawaran, Provinsi Lampung.",
-      "detail":"Pantai Sari Ringgung, keindahan, dan keseruannya bukan hanya sebatas hiperbola dari kata-kata saja. Namun menjadi sebuah fakta, dan menjadi sebuah destinasi wisata kebanggan masyarakat Lampung. Terdapat beberapa alasan kenapa Pantai Sari Ringgung selalu ramai dikunjungi oleh para wisatawan, salah-satunya karena lokasi Pantai Sari Ringgung sangat strategis, dekat dengan pusat Kota Bandar Lampung.Tidak berhenti hanya sampai disitu saja, alasan selanjutnya karena di Pantai Sari Ringgung terdapat banyak sekali ragam wahana, serta fasilitas penunjang yang akan menambah keseruan aktivitas wisata para pengunjung.",
-      "gambar":"./assets/PantaiSariRinggung.png"
+      "detail":"Pantai Sari Ringgung, keindahan, dan keseruannya bukan hanya sebatas hiperbola dari kata-kata saja. Namun menjadi sebuah fakta, dan menjadi sebuah destinasi wisata kebanggan masyarakat Lampung. Terdapat beberapa alasan kenapa Pantai Sari Ringgung selalu ramai dikunjungi oleh para wisatawan, salah-satunya karena lokasi Pantai Sari Ringgung sangat strategis, dekat dengan pusat Kota Bandar Lampung.Tidak berhenti hanya sampai disitu saja, alasan selanjutnya karena di Pantai Sari Ringgung terdapat banyak sekali ragam wahana, serta fasilitas penunjang yang akan menambah keseruan aktivitas wisata para pengunjung."
     }
   ]
 }

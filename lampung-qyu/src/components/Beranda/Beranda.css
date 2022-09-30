@@ -1,0 +1,62 @@
+.the-beranda{
+  display: flex;
+  justify-content: center;
+}
+.the-background{
+  position:absolute;
+  z-index: 1 !important;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+.background{
+  width:100%;
+  height: 100%;
+}
+.the-opening{
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  margin-top: 100px;
+}
+.the-title{
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #46553A;
+}
+.the-description{
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 0px;
+  letter-spacing: 3px;
+  color: #46553A;
+}
+.the-goToList {
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  margin-top: 680px;
+  
+}
+.the-link{
+  text-decoration: none;
+}
+.the-button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #46553A;
+  color: #B1D4E0;
+  border-radius: 5px;
+}
+.the-text-button{
+  margin: 0px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+.the-button:hover{
+  transform: translateY(-5px);
+  border: 3px solid #B1D4E0;
+}

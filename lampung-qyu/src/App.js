@@ -11,7 +11,7 @@ function App() {
       <Route exact path="/" element={<Beranda/>}/>
       <Route path="/beranda" element={<Beranda/>}/>
       <Route path="/list-tempat" element={<ListTempat/>}/>
-      <Route path="/detail-tempat" element={<DetailTempat/>}/>
+      <Route path="/detail-tempat/:id" element={<DetailTempat/>}/>
     </Routes>
   );
 }

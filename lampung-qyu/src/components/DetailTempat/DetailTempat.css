@@ -1,0 +1,30 @@
+.the-detail-tempat {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 80%;
+}
+.the-name{
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #46553A;
+  text-align: center;
+}
+.the-name-two{
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #46553A;
+}
+.the-desc-place{
+  font-size: 20px;
+  margin-top: 5px;
+  text-align: justify;
+}
+.the-button-flex{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+}
