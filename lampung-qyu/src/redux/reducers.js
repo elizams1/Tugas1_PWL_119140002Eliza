@@ -12,7 +12,7 @@ const initialState = {
   getDetailTempatLoading: false,
   getDetailTempatError: false,
 }
-
+/* eliza maharani - 119140002 */
 function reducers(state=initialState, action){
   switch (action.type){
     case GET_LIST_TEMPAT:

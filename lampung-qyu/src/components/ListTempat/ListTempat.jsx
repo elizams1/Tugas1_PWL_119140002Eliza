@@ -25,6 +25,7 @@ function ListTempat() {
             getListTempatData.map((tempat)=>{
               return(
                 <>
+                {/* eliza maharani - 119140002 */}
                 <Link to={{ pathname:"/detail-tempat/"+tempat.id }} onClick={()=>dispatch(getDetailTempat(tempat.id))} className="the-link">
                   <div className="the-card">
                     <div>
